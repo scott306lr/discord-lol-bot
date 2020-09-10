@@ -3,12 +3,12 @@ a bot for discord written by python
 
 ## Required Libraries
 
-discord
-googleapiclient
-json
-bs4
-urllib
-ssl
+discord\
+googleapiclient\
+json\
+bs4\
+urllib\
+ssl\
 
 ### Getting Started
 
@@ -43,14 +43,14 @@ start the program by executing _**bot.py**_ .
 **!news** 
 * Lists out the newest 5 update news. 
  
-**!list [level]** :\
+**!list [level]** \
 ex: 
 ``` 
 !list 8
 ``` 
 * List the top 6 champions of each stats on the current level. 
  
-**!champ [championName] [level]** :\
+**!champ [championName] [level]** \
 ex: 
 ``` 
 !champ 卡特蓮娜 5
