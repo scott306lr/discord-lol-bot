@@ -23,7 +23,7 @@ To get the program working, you will have to fill up the data inside _**settings
 TOKEN is from [discord developers console](https://discord.com/developers/applications/),\
 DEVELOPER_KEY is from [google apis console](https://console.developers.google.com/apis/credentials),\
 NEWS_UPDATE_CHANNEL_ID can be gotten by right clicking a channel in discord and select "copy ID".\
-\
+
 
 ### install libraries:
 
