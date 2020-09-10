@@ -1,0 +1,5 @@
+{	
+	"TOKEN":"YourTokenHere",
+	"DEVELOPER_KEY":"YourDeveloperKeyHere",
+	"NEWS_UPDATE_CHANNEL_ID":"DiscordChannelID"
+}
